@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 14 Nov 2020 00:49:32 at https://robovission.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://robovission.netlify.app/ -O1 "C:\My Web Sites\Robo\robo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/shape1.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img//bg-img/travel-bg.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/header2.jpg (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/header5.jpg (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/header3.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/banner-bg.jpg (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/tringle.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/trans.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/hero-bg.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/robot-1.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/robot-2.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/svg/head-bg-1.svg (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/header-1.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/video-btn-bg.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/about-1.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/faq.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/saas4.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/travel.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/pizza-header.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/css/video/video-frame.PNG (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/header6.jpg (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/svg/ai-illustration.svg (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/wave-shap.png (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/svg/pdf.svg (from https://robovission.netlify.app/css/style.css)
+00:50:32	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/svg/view.svg (from https://robovission.netlify.app/css/style.css)
+00:50:35	Error: 	"Not Found" (404) at link https://robovission.netlify.app/fonts/ui-icons.eot?28565742 (from https://robovission.netlify.app/css/font-icons.css)
+00:50:35	Error: 	"Not Found" (404) at link https://robovission.netlify.app/fonts/ui-icons.woff?28565742 (from https://robovission.netlify.app/css/font-icons.css)
+00:50:35	Error: 	"Not Found" (404) at link https://robovission.netlify.app/fonts/ui-icons.ttf?28565742 (from https://robovission.netlify.app/css/font-icons.css)
+00:50:35	Error: 	"Not Found" (404) at link https://robovission.netlify.app/fonts/ui-icons.svg?28565742 (from https://robovission.netlify.app/css/font-icons.css)
+00:50:35	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/core-img/footer-bg1.png (from https://robovission.netlify.app/index-blog.html)
+00:50:35	Error: 	"Not Found" (404) at link https://robovission.netlify.app/img/bg-img/bg-2.jpg (from https://robovission.netlify.app/contact-us.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 177 links scanned, 145 files written (7078987 bytes overall) [5218108 bytes received at 82827 bytes/sec], 3122627 bytes transferred using HTTP compression in 112 files, ratio 34%, 29.5 requests per connection
+(31 errors, 0 warnings, 0 messages)
